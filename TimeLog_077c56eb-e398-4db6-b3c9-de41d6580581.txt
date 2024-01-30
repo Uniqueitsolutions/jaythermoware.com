@@ -3,7 +3,6 @@ home
 about
 product
  - product-details
-e-catlogs
 countat us
 
 
@@ -18,7 +17,7 @@ countat us
 
 *Features*
 
-- template 
+- template done
 - layout
 - logo contant details
 - contact us 

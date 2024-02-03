@@ -7,15 +7,15 @@ countat us
 
 
 -----------------------------------------
-14/02/2023 Sunday 10:30 to 11:30 - 1 hour
-- crate about us page
 
-14/02/2023 Sunday 10:30 to 11:30 - 1 hour
-- change in counta us page
-
+27-01-2024 Saturday 45min 
+    logo add in photos
 
 31-01-2024 wed 7:45 to 8:30  - 45 min
-home page change
+    home page change
+
+03-02-2024 Saturday 11:00 to 
+
 ------------------------------------------
 
 *Features*
@@ -30,3 +30,18 @@ home page change
 - about us
 - Product
 - etc...
+
+
+
+3 PHOTO SAME
+
+WHY AGUAPURE horizontal
+no contract delivery cancle
+rating cancle
+Essential
+for Healthy Life cancle
+
+viweall under div cancel
+
+
+top  servce area delete

@@ -791,6 +791,12 @@ animation2{0%{-webkit-transform:rotateY(0deg);transform:rotateY(0deg)}100%{-webk
     Float Bob Y Animation Css
 =============================================
 ***/
+.slider-image{
+  width: 50%;
+  margin-right: 150px;
+  margin-bottom: 100px;
+}
+
 @-webkit-keyframes float-bob-y {
 	0% {
 		transform: translateY(-20px);

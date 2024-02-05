@@ -14,8 +14,11 @@ countat us
 31-01-2024 wed 7:45 to 8:30  - 45 min
     home page change
 
-03-02-2024 Saturday 11:00 to 
+03-02-2024 Saturday 11:00 to 12:00 - 1hour
+    home page and product page
 
+05-02-2024 Monday 7:00 to 8:30
+    product page
 ------------------------------------------
 
 *Features*

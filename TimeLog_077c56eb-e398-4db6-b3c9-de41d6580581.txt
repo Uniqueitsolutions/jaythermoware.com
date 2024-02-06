@@ -17,10 +17,10 @@ countat us
 03-02-2024 Saturday 11:00 to 12:00 - 1hour
     home page and product page
 
-05-02-2024 Monday 7:00 to 8:30
+05-02-2024 Monday 7:00 to 8:30 - 1.5 hour
     product page
 
-06-02-2024 Tuesday 7:00 to
+06-02-2024 Tuesday 7:00 to 8:30 - 1.5hour
     product page fix
 
 ------------------------------------------

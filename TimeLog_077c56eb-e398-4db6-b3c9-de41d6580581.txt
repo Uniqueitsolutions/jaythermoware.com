@@ -19,6 +19,10 @@ countat us
 
 05-02-2024 Monday 7:00 to 8:30
     product page
+
+06-02-2024 Tuesday 7:00 to
+    product page fix
+
 ------------------------------------------
 
 *Features*

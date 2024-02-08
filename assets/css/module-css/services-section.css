@@ -751,19 +751,20 @@
     align-items: center;
     padding-bottom: 60px;
     z-index: 2;
+    margin: 50px 0px 0px 450px;
+
 }
 .service-details_tab .tab-buttons li.tab-btn{
     position: relative;
     display: flex;
     align-items: center;
     justify-content: center;
-    float: left;
-    width: 25%;
+    width: 20%;
     min-height: 60px;
     background: #ecf2f6;
     cursor: pointer;
     color: #98a1a7;
-    font-size: 14px;
+    font-size: 15px;
     font-weight: 700;
     text-transform: uppercase;
     font-family: var(--thm-font-2);

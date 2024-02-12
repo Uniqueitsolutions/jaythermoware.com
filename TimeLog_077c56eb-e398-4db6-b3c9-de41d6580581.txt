@@ -23,6 +23,12 @@ countat us
 06-02-2024 Tuesday 7:00 to 8:30 - 1.5hour
     product page fix
 
+08-02-2024 Thrusday 7:00 to 8:30 - 1.5 hour
+    product page tab index change 
+
+12-02-2024 Monday 9:30 to 10:00 - 0.5 hour  
+    contact us page
+
 ------------------------------------------
 
 *Features*
